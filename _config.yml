@@ -2,14 +2,14 @@
 name: Pabebe
 email: zezuwang@qq.com
 author: Pabebe
-url: http://www.hifreud.com
-resume_site: http://www.hifreud.com/Resume.io/
+url: https://github.com/Pabebezz/pabebe.github.io
+resume_site: https://github.com/Pabebezz/
 github: https://github.com/Pabebezz/
-baseurl: 
+baseurl: ""
 description: Actually, less is more!
-meta_description: 康志华;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
+meta_description: 业精于勤，慌于嬉；行成于思，毁于随
 motto: It's our wits that make us men.
-banner: 学而不思则罔，思而不学则殆。
+banner: 业精于勤，慌于嬉；行成于思，毁于随
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
