@@ -1,14 +1,22 @@
 # Site settings
-name: Pabebe
+#博客名称
+name: Pabebe Blog
+#邮箱
 email: zezuwang@qq.com
+#作者
 author: Pabebe
-url: https://github.com/Pabebezz/blog.io
+#个人网站
+url: https://pabebezz.github.io/blog.io
+#个人简历网站
 resume_site: https://github.com/Pabebezz/
+#gitHub网址
+github_username: Pabebezz
 github: https://github.com/Pabebezz/
 baseurl: ""
+#博客相关描述
 description: Actually, less is more!
 meta_description: 业精于勤，慌于嬉；行成于思，毁于随
-motto: It's our wits that make us men.
+motto: I have soulful eyes of a cow.
 banner: 业精于勤，慌于嬉；行成于思，毁于随
 
 #permalink: /:categories/:year/:month/:day/:title/
@@ -17,7 +25,6 @@ paginate: 10
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
-github_username: Pabebezz
 
 # Build settings
 markdown: kramdown
